@@ -6,6 +6,7 @@ __pycache__
 /SwinIR/*
 /repositories
 /venv
+/venv_old
 /tmp
 /model.ckpt
 /models/**/*
@@ -29,7 +30,7 @@ notification.mp3
 /SwinIR
 /textual_inversion
 .vscode
-/extensions
+# /extensions
 /test/stdout.txt
 /test/stderr.txt
 /cache.json*

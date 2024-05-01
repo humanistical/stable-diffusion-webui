@@ -1,0 +1,4 @@
+Requirement already satisfied: imageio[pyav] in c:\users\tjsul\repos\stable-diffusion-webui\venv\lib\site-packages (2.33.1)
+Requirement already satisfied: pillow>=8.3.2 in c:\users\tjsul\repos\stable-diffusion-webui\venv\lib\site-packages (from imageio[pyav]) (9.5.0)
+Requirement already satisfied: numpy in c:\users\tjsul\repos\stable-diffusion-webui\venv\lib\site-packages (from imageio[pyav]) (1.23.5)
+Requirement already satisfied: av in c:\users\tjsul\repos\stable-diffusion-webui\venv\lib\site-packages (from imageio[pyav]) (11.0.0)
